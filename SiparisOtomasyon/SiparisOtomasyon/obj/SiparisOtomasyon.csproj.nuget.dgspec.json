@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\eyyup\\source\\repos\\SiparisOtomasyon\\SiparisOtomasyon\\SiparisOtomasyon.csproj": {}
+    "C:\\Users\\eyyup\\Documents\\GitHub\\AspNetCoreSiparisUygulamasi\\SiparisOtomasyon\\SiparisOtomasyon\\SiparisOtomasyon.csproj": {}
   },
   "projects": {
-    "C:\\Users\\eyyup\\source\\repos\\SiparisOtomasyon\\SiparisOtomasyon\\SiparisOtomasyon.csproj": {
+    "C:\\Users\\eyyup\\Documents\\GitHub\\AspNetCoreSiparisUygulamasi\\SiparisOtomasyon\\SiparisOtomasyon\\SiparisOtomasyon.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eyyup\\source\\repos\\SiparisOtomasyon\\SiparisOtomasyon\\SiparisOtomasyon.csproj",
+        "projectUniqueName": "C:\\Users\\eyyup\\Documents\\GitHub\\AspNetCoreSiparisUygulamasi\\SiparisOtomasyon\\SiparisOtomasyon\\SiparisOtomasyon.csproj",
         "projectName": "SiparisOtomasyon",
-        "projectPath": "C:\\Users\\eyyup\\source\\repos\\SiparisOtomasyon\\SiparisOtomasyon\\SiparisOtomasyon.csproj",
+        "projectPath": "C:\\Users\\eyyup\\Documents\\GitHub\\AspNetCoreSiparisUygulamasi\\SiparisOtomasyon\\SiparisOtomasyon\\SiparisOtomasyon.csproj",
         "packagesPath": "C:\\Users\\eyyup\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eyyup\\source\\repos\\SiparisOtomasyon\\SiparisOtomasyon\\obj\\",
+        "outputPath": "C:\\Users\\eyyup\\Documents\\GitHub\\AspNetCoreSiparisUygulamasi\\SiparisOtomasyon\\SiparisOtomasyon\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -1,5 +1,6 @@
 ﻿@model List<Urun>
-
+    <a asp-action="Ekle" asp-controller="Home" asp-area="Admin" class="btn btn-primary
+       btn-sm my-2 float-end">Ekle</a>
 <table class="table table-sm table-bordered table-hover mt-2">
     <tr>
         <th>ID</th>
@@ -11,7 +12,7 @@
     {
 <tr>
     <td>@item.Id</td>
-    <td></td>
+    <td>@item.Resim</td>
     <td>@item.Ad</td>
     <td>@item.Fiyat</td>
 </tr>

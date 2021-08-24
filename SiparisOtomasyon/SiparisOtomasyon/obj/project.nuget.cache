@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2u3dztzr1NZzOMv8i709icR37ST3vpLffQOBgwm1mvw2P5W63J8wrjxvTxXswhgwXRpNqd3pUNuEyq0xB47axQ==",
+  "dgSpecHash": "ISWl6EGHAC1gbM717h+KoDhCr1/XeLpjh6oAJtF3oNVG/Q94ijMYfl4I8AD9fEgN1VlO4CtiyJi622RZxZl/Cw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\eyyup\\source\\repos\\SiparisOtomasyon\\SiparisOtomasyon\\SiparisOtomasyon.csproj",
+  "projectFilePath": "C:\\Users\\eyyup\\Documents\\GitHub\\AspNetCoreSiparisUygulamasi\\SiparisOtomasyon\\SiparisOtomasyon\\SiparisOtomasyon.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\eyyup\\.nuget\\packages\\dapper\\2.0.78\\dapper.2.0.78.nupkg.sha512",
     "C:\\Users\\eyyup\\.nuget\\packages\\dapper.contrib\\2.0.78\\dapper.contrib.2.0.78.nupkg.sha512",

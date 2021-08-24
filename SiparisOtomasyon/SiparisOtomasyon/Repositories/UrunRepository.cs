@@ -1,6 +1,7 @@
 ﻿using SiparisOtomasyon.Contexts;
 using SiparisOtomasyon.Entities;
 using SiparisOtomasyon.Interfaces;
+using SiparisOtomasyon.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,6 +11,11 @@ namespace SiparisOtomasyon.Repositories
 {
     public class UrunRepository : GenericRepository<Urun>, IUrunRepository
     {
+        public void Ekle(UrunEkleModel model)
+        {
+            throw new NotImplementedException();
+        }
+
         public List<Kategori> GetirKategoriler(int urunId)
         {
             using var context = new CoreDersContext();
