@@ -15,6 +15,17 @@
     <td>@item.Resim</td>
     <td>@item.Ad</td>
     <td>@item.Fiyat</td>
+    <td>
+        <a asp-action="Guncelle" asp-controller="Home" asp-area="Admin" asp-route-id="@item.Id"
+           class="btn btn-warning btn-sm">
+            Güncelle
+        </a>
+        <a asp-action="Sil" asp-controller="Home" asp-area="Admin" asp-route-id="@item.Id"
+           class="btn btn-danger btn-sm">
+            Sil
+        </a>
+
+    </td>
 </tr>
     }
 </table>

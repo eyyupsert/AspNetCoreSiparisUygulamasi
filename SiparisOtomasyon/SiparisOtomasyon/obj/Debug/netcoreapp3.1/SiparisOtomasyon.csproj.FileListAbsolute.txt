@@ -187,3 +187,7 @@ C:\Users\eyyup\Documents\GitHub\AspNetCoreSiparisUygulamasi\SiparisOtomasyon\Sip
 C:\Users\eyyup\Documents\GitHub\AspNetCoreSiparisUygulamasi\SiparisOtomasyon\SiparisOtomasyon\obj\Debug\netcoreapp3.1\SiparisOtomasyon.pdb
 C:\Users\eyyup\Documents\GitHub\AspNetCoreSiparisUygulamasi\SiparisOtomasyon\SiparisOtomasyon\obj\Debug\netcoreapp3.1\SiparisOtomasyon.genruntimeconfig.cache
 C:\Users\eyyup\Documents\GitHub\AspNetCoreSiparisUygulamasi\SiparisOtomasyon\SiparisOtomasyon\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Ekle.cshtml.g.cs
+C:\Users\eyyup\Documents\GitHub\AspNetCoreSiparisUygulamasi\SiparisOtomasyon\SiparisOtomasyon\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Guncelle.cshtml.g.cs
+C:\Users\eyyup\Documents\GitHub\AspNetCoreSiparisUygulamasi\SiparisOtomasyon\SiparisOtomasyon\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Kategori\Index.cshtml.g.cs
+C:\Users\eyyup\Documents\GitHub\AspNetCoreSiparisUygulamasi\SiparisOtomasyon\SiparisOtomasyon\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Kategori\Ekle.cshtml.g.cs
+C:\Users\eyyup\Documents\GitHub\AspNetCoreSiparisUygulamasi\SiparisOtomasyon\SiparisOtomasyon\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Kategori\Guncelle.cshtml.g.cs

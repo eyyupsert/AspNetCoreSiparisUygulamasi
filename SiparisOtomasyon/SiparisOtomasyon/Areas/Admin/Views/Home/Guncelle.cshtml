@@ -1,0 +1,30 @@
+﻿@model UrunGuncelleModel
+
+<form asp-action="Guncelle" asp-controller="Home" asp-area="Admin" method="post"
+      class="w-75 mx-auto p-3" enctype="multipart/form-data">
+    <input type="hidden" asp-for="@Model.Id" />
+    <div class="form-group">
+        <label>Ürünün Adı:</label>
+        <span asp-validation-for="@Model.Ad" class="text-danger"></span>
+        <input asp-for="@Model.Ad" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Ürünün Fiyat:</label>
+        <span asp-validation-for="@Model.Fiyat" class="text-danger"></span>
+        <input asp-for="@Model.Fiyat" class="form-control" />
+    </div>
+    <div class="form-group mt-2">
+        <label>Ürünün Resmi:</label><br />
+        <input type="file" asp-for="@Model.Resim" class="form-control-file mt-2" />
+    </div>
+    <div class="form-group mt-4">
+        <a asp-action="Index" asp-controller="Home" asp-area="Admin" class="btn btn-warning">
+            Geri Dön
+        </a>
+        <button type"submit" class="btn btn-primary">Kaydet</button>
+    </div>
+</form>
+@section JavaScript{
+    <script src="~/jqueryValid/jquery.validate.min.js"></script>
+    <script src="~/jqueryUnob/jquery.validate.unobtrusive.min.js"></script>
+}

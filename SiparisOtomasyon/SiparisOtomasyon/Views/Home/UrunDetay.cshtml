@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-3">
-                <img src="" class="w-100 img-thumbnail img-fluid" alt="@Model.Ad" />
+                <img src="/img/@Model.Resim" class="w-100 img-thumbnail img-fluid" alt="@Model.Ad" />
             </div>
             <div class="col-md-9">
                 <div class="card">
@@ -14,7 +14,7 @@
                         <h5 class="card-title">@Model.Ad</h5>
                         <p class="card-text">@Model.Fiyat</p>
                         <a href="#" class="btn btn-primary float-md-end ">Sepete Ekle</a>
-                        <a asp-action="Index" asp-controller="Home" class="btn btn-danger float-md-end">Geri Dön</a>
+                        <a asp-action="Index" asp-controller="Home" class="btn btn-danger float-md-end me-2">Geri Dön</a>
                     </div>
                 </div>
             </div>
